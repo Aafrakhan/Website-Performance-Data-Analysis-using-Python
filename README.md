@@ -34,7 +34,7 @@ This project analyzes ~3,182 hourly records of website performance data to uncov
 
 - **Organic Social** drives the most traffic (~47.5K users) but has inconsistent engagement quality.
 - **Referral** traffic has the smallest volume but the best, most consistent engagement rate.
-- **Direct** traffic has the weakest engagement — more non-engaged sessions than engaged ones.
+- **Direct** traffic has the weakest engagement more non-engaged sessions than engaged ones.
 - Traffic follows a clear daily cycle: lowest between **12 AM–5 AM**, peaking between **6 PM–10 PM**.
 - **Email** and **Organic Video** channels are almost unused, representing untapped opportunity.
 - A major traffic spike occurred around **April 17–18**, worth further investigation.
@@ -42,7 +42,7 @@ This project analyzes ~3,182 hourly records of website performance data to uncov
 ## ✅ Recommendations
 
 - Improve landing pages and CTAs to boost Direct traffic engagement.
-- Invest more in Referral partnerships — best quality-to-volume ratio.
+- Invest more in Referral partnerships best quality-to-volume ratio.
 - Better match Organic Social content to landing pages to reduce drop-off.
 - Schedule content/ads during peak hours (6 PM–10 PM).
 - Test and grow underused channels like Email and Organic Video.
